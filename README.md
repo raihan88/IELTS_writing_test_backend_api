@@ -14,7 +14,6 @@ Add a `.env` file with `GEMINI_API_KEY`
 
 **4. Run:**
 ```
-cd app
 uvicorn app.main:main --reload
 ```
 **5. Check API documentaion:**
